@@ -50,19 +50,6 @@ A dual-gate, high-sensitivity SMS phishing detector for bKash/Nagad/Rocket scam 
 *(1-2 line description of your two SQL projects here)*
 `SQL`
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hemal1020&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemal1020&layout=compact&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemal1020&hide_border=true" />
-</p>
-
----
 
 <p align="center"><i>Open to Software Engineer, Python Developer, and AI/ML Engineer opportunities.</i></p>

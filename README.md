@@ -34,7 +34,7 @@ My final year thesis, a **phishing SMS detection system for Bangladeshi mobile b
 
 ### 📌 Featured Projects
 
-#### 🔐 [Phishing SMS Detector — Bangladeshi Mobile Banking](https://github.com/hemal1020/phishing-sms-detector-bd)
+#### 🔐 [Phishing SMS Detector — Bangladeshi Mobile Banking](https://github.com/hemal1020/Phishing-SMS-Detection-in-Bangladeshi-Mobile-Banking-System.git)
 A dual-gate, high-sensitivity SMS phishing detector for bKash/Nagad/Rocket scam messages. Hard Voting Ensemble (LinearSVC, Logistic Regression, Random Forest) with TF-IDF features, trained on 72,000+ multilingual (English/Bengali/Banglish) messages. Achieves 94.86% ensemble accuracy. Deployed as a Flask REST API and integrated into a Flutter Android app.
 `Python` `Scikit-learn` `NLP` `Flask` `Flutter`
 

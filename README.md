@@ -42,14 +42,27 @@ A dual-gate, high-sensitivity SMS phishing detector for bKash/Nagad/Rocket scam 
 150+ problems solved on Codeforces, organized by topic and difficulty. Built during my competitive programming years in C/C++ and Python, where I won 3 university-level contest awards.
 `C++` `Python` `Algorithms` `Data Structures`
 
-#### 🎮 [Java Game Project](https://github.com/hemal1020/YOUR-JAVA-GAME-REPO)
-*(1-2 line description of your game here — what kind of game, key mechanics/features)*
-`Java`
+#### 🎮 [Brick Breaker — Java Game](https://github.com/hemal1020/brick-breaker-java)
+A classic Breakout-style arcade game built with Java Swing/AWT, structured as a Maven project. Includes real-time paddle/ball physics, collision detection, and win/lose game states.
+`Java` `Swing` `Maven`
 
-#### 🗄️ [SQL Projects](https://github.com/hemal1020/YOUR-SQL-REPO)
-*(1-2 line description of your two SQL projects here)*
-`SQL`
+#### 📚 [Book Store Management System — PHP & MySQL](https://github.com/hemal1020/book-store-management-system)
+A full-stack web app for an online bookstore with role-based access — users can browse, search, and download books by title/author/category, while admins manage the full catalog.
+`PHP` `MySQL` `CRUD`
 
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hemal1020&show_icons=true&theme=default&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemal1020&layout=compact&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemal1020&hide_border=true" />
+</p>
+
+---
 
 <p align="center"><i>Open to Software Engineer, Python Developer, and AI/ML Engineer opportunities.</i></p>

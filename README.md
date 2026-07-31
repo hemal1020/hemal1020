@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-I'm a recent Computer Science graduate (CGPA 3.91) from Notre Dame University Bangladesh, building toward a career as a **Software Engineer** with a growing specialization in **AI/ML**. My path into programming started in 2020 with HTML/CSS/JS, and grew through C/C++ competitive programming (3 university contest awards), Java, SQL, and Python — giving me a broad, hands-on foundation across the stack.
+I'm a recent Computer Science graduate from Notre Dame University Bangladesh, building toward a career as a **Software Engineer** with a growing specialization in **AI/ML**. My path into programming started in 2020 with HTML/CSS/JS, and grew through C/C++ competitive programming (3 university contest awards), Java, SQL, and Python — giving me a broad, hands-on foundation across the stack.
 
 My final year thesis, a **phishing SMS detection system for Bangladeshi mobile banking (bKash, Nagad, Rocket)**, combined that programming background with applied machine learning — from raw data to a deployed, working product. It was graded **A+**.
 

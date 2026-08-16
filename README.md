@@ -63,7 +63,7 @@ A full-stack web app for an online bookstore with role-based access — users ca
  <img src="https://streak-stats.demolab.com/?user=hemal1020&hide_border=true" />
 </p>
 <h1 align="center">
- <img src="https://streak-stats.demolab.com/?user=hemal1020&hide_border=true" />
+ <img src="https://streak-stats.demolab.com/?user=hemal1020&hide_border=true" >
 </h1>
 
 ---
